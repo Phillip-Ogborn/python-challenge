@@ -1,7 +1,7 @@
 import os 
 import csv
 #path to the csvfile
-csvpath = os.path.join("..", "PyPoll", "Resources", "election_data.csv")
+csvpath = os.path.join('.', 'PyPoll', 'Resources', 'election_data.csv')
 
 #initializing the variables 
 poll_data={}
